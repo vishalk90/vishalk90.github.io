@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5d97896-06d3-449b-a66e-46d2ed6108de" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -888,7 +887,7 @@
       <workItem from="1488050782973" duration="243000" />
       <workItem from="1488051040907" duration="1123000" />
       <workItem from="1488052409271" duration="41000" />
-      <workItem from="1488052463381" duration="1622000" />
+      <workItem from="1488052463381" duration="1646000" />
     </task>
     <task id="LOCAL-00001" summary="uploading first copy">
       <created>1487647167109</created>
@@ -988,11 +987,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488054057245</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated website :version 2.01: Counter">
+      <created>1488054395607</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1488054395607</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8637000" />
+    <option name="totallyTimeSpent" value="8661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1069,7 +1075,8 @@
     <MESSAGE value="Updated whole website" />
     <MESSAGE value="Updated whole website :version 01" />
     <MESSAGE value="Updated website :version 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated website :version 02" />
+    <MESSAGE value="Updated website :version 2.01: Counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated website :version 2.01: Counter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
