@@ -1,27 +1,30 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
+Responsive HTML5 website template for developers
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+Theme name:
+=======================================================================
+Developer
 
-## Getting Started
+Theme version:
+=======================================================================
+v1.5
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
-* Fork the repo
+Release Date:
+=======================================================================
+07 Jan 2016
 
-## Bugs and Issues
+Author: 
+=======================================================================
+Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+Contact:
+=======================================================================
+Web: http://themes.3rdwavemedia.com/
+Email: hello@3rdwavemedia.com
+Twitter: @3rdwave_themes
 
-## Creator
+License: 
+=======================================================================
+This template is free under the Creative Commons Attribution 3.0 License.
+https://creativecommons.org/licenses/by/3.0/
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+If you'd like to use the template without the attribution, you can check out other license options via our website: http://themes.3rdwavemedia.com/
