@@ -93,6 +93,8 @@ a.btn-cta-secondary:hover,
 .label-theme {
   background: #3AAA64;
   font-size: 12px;
+  line-height: 2;
+
 }
 a.dotted-link {
   border-bottom: 1px dotted #778492;
@@ -178,7 +180,7 @@ iframe {
 .section .section-inner {
   background: #fff;
   padding: 30px;
-	box-shadow: 0px 0px 2px 2px #ccc;
+	box-shadow: 0px 0px 1px 1px #ccc;
 }
 .section .heading {
   margin-top: 0;
