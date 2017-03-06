@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5d97896-06d3-449b-a66e-46d2ed6108de" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +56,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="90" column="80" lean-forward="false" selection-start-line="90" selection-start-column="80" selection-end-line="90" selection-end-column="80" />
+            <state relative-caret-position="288">
+              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -952,7 +951,7 @@
       <workItem from="1488493085892" duration="196000" />
       <workItem from="1488736092030" duration="426000" />
       <workItem from="1488756758716" duration="280000" />
-      <workItem from="1488759027659" duration="61000" />
+      <workItem from="1488759027659" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="uploading first copy">
       <created>1487647167109</created>
@@ -1115,11 +1114,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488756782485</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Updated website :Version 2.03 - Minute updates;qr code">
+      <created>1488759105204</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1488759105204</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14660000" />
+    <option name="totallyTimeSpent" value="14696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1199,7 +1205,8 @@
     <MESSAGE value="Updated website :version 2.01: Counter" />
     <MESSAGE value="Updated website :version 2.02 - Minute updates" />
     <MESSAGE value="Updated website :Version 2.03 - Minute updates;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated website :Version 2.03 - Minute updates;" />
+    <MESSAGE value="Updated website :Version 2.03 - Minute updates;qr code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated website :Version 2.03 - Minute updates;qr code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1767,8 +1774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="90" column="80" lean-forward="false" selection-start-line="90" selection-start-column="80" selection-end-line="90" selection-end-column="80" />
+        <state relative-caret-position="288">
+          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
